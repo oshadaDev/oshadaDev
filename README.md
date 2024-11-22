@@ -5,15 +5,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
 </p>
 
 	
@@ -23,7 +14,7 @@
 
 <br><br>
 
-- :school: I currently learning `Software Engineering`. at [Faculty of Engineering]at [Open University of Sri Lanka](https://en.wikipedia.org/wiki/Open_University_of_Sri_Lanka).
+- :school: I currently learning `Software Engineering`. at Faculty of Engineering at [Open University of Sri Lanka](https://en.wikipedia.org/wiki/Open_University_of_Sri_Lanka).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 <br>
