@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I currently learning `Software Engineering`. at Faculty of Engineering at [Open University of Sri Lanka](https://en.wikipedia.org/wiki/Open_University_of_Sri_Lanka).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
+- :school: I currently learning Software Engineering at Faculty of Engineering at [Open University of Sri Lanka](https://en.wikipedia.org/wiki/Open_University_of_Sri_Lanka).
+- :technologist: I love using Software as a solution for every Problem.
+- :nerd_face: Always learning new things.
 <br>
