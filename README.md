@@ -46,3 +46,12 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
     </tr>
 </table>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="center">
+<a href="https://x.com/crp_oshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oshadarathnasiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25229960/oshada-rathnasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackof" height="30" width="40" /></a>
+<a href="https://medium.com/@applevisionpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="meduim" height="30" width="40" /></a>
+</p>
