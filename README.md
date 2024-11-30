@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,androidstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
