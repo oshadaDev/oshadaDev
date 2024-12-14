@@ -56,6 +56,8 @@
 <a href="https://medium.com/@applevisionpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="meduim" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Overall Languages used:</h3>
+
 <p align="center">
 	<img src="https://wakatime.com/share/@oshadadev/2d339065-67bc-4d15-9422-8163bd973fb2.svg" height="400"/>
 </p>
